@@ -1,1 +1,1 @@
-test line1 for merge conflict from branch-a.
+test line1 for from branch-a.
